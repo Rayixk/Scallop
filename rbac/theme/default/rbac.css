@@ -1,0 +1,27 @@
+
+.rbac-hide {
+    display: none;
+}
+
+/*.rbac-menu-item .rbac-menu-body {*/
+    /*margin-left: 20px;*/
+/*}*/
+
+.rbac-menu-body a {
+    display: block;
+    color:rgb(208,220,214);
+    text-decoration:none;
+    font-family: 幼圆;
+    text-align: center;
+}
+
+.rbac-menu-body a.rbac-active {
+    color: white;
+    background-color: #337ab7;
+}
+.rbac-menu-body {
+    background-color:rgb(56,70,96);
+}
+.rbac-menu-item{
+    background-color:rgb(56,70,96);
+}
